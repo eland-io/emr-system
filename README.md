@@ -50,12 +50,12 @@ Please have a look at the suggested titles below and make recommendations and su
 
 ## Screenshots
 
-![App Screenshot](./raf_claimant_page_down_2023-26.jpg
+![The Official RAF Claimant form unusable due to unreliable infrastructure](./raf_claimant_page_down_2023-26.jpg
 )
 
 ## Roadmap
 
-- [x] Research & Data Collection
+[x] - Research & Data Collection
   - RAF Strategic Plan
   - RAF 1 Claimant Form
   - ICD codes (International Classification of Diseases)
