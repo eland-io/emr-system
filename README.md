@@ -1,8 +1,7 @@
 
 # [EMR System](github.com/)
 
-"Transforming Claims Processing with an Innovative Electronic
-  Medical Records System and AI-Driven Health Data Managent"
+"Transforming Claims Processing with an Innovative Electronic Medical Records System and AI-Driven Health Data Management Solutions"
 
 ## NOTE
 **This document is a work in progess and is meant for development and planning purposes only**
