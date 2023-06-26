@@ -27,9 +27,10 @@ for motor vehicle accident victims.
 - Discharge forms (completed); 
 
 ## COMPLIANCE
-
+- TODO
 ### Strategic Compliance
-
+- TODO
 ### RAF Acts
-
-#### (PAIA):Forms
+- TODO
+### RAF Promotion of Access to Information (PAIA) Forms
+- TODO
