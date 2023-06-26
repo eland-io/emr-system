@@ -50,7 +50,8 @@ Please have a look at the suggested titles below and make recommendations and su
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./raf_claimant_page_down_2023-26.jpg
+)
 
 ## Roadmap
 
