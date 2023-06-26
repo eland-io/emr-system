@@ -46,6 +46,9 @@ Please have a look at the suggested titles below and make recommendations and su
 - "Transforming Claims Processing with an Innovative Electronic Medical Records System and AI-Driven PDF Generator"
 - "Web-Standards for Claims Management: Building a Better Road Accident Fund through Custom Web Applications and Intelligent Systems"
 
+## Links
+[RAF Summary](./RAF.md)
+
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
