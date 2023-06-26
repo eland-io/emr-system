@@ -55,7 +55,7 @@ Please have a look at the suggested titles below and make recommendations and su
 
 ## Roadmap
 
-[x] - Research & Data Collection
+- [x] Research & Data Collection
   - RAF Strategic Plan
   - RAF 1 Claimant Form
   - ICD codes (International Classification of Diseases)
